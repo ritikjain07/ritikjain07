@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ritikjain07
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning java/c/phython/javaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ritikjain4560@gmail.com
 
 <!---
