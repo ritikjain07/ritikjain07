@@ -12,7 +12,7 @@ I am a developer who loves react!
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Batman, Tell Everyone
 
-* my leetcode - ritikjain07
+* my leetcode - [ritikjain01_jain](https://leetcode.com/u/ritik01_jain/)
 
 ### Skills
 
