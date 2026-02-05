@@ -8,9 +8,8 @@ I am a developer who loves react!
 
 * 🌍  I'm based in jaipur, Rajasthan
 * ✉️  You can contact me at [ritikjain4560@gmail.com](mailto:ritikjain4560@gmail.com)
-* 🧠  I'm learning Next.js 15
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I Am Batman, Tell Everyone
+* ⚡  I Am Batman, Tell Everyone :)
 
 
 ### Skills
